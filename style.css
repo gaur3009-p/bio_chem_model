@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+  }
+  table a {
+    background-color: transparent;
+    color: #58a6ff;
+    text-decoration: none;
+  }
+  a:active,
+  a:hover {
+    outline-width: 0;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  table, th, td {
+    border: 1px solid;
+  }
+
+  
